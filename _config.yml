@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "mohamadreza farahbakhsh"
-  avatar           : "C:\git\personal_website_template\assets\images\bio-photo.jpg"
+  avatar           : "\assets\images\bio-photo.jpg"
   bio              : I'm NOT the best student : |
   location         : "tehran , Iran University of Science and Technology"
   email            : farahbakhsh20mohamadreza30@gmail.com
