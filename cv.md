@@ -1,40 +1,34 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
-title: Resume
-tags: [resume, cv]
+permalink: /PI/
+title: everything about me
+tags: [personalinformation]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# ekhteshash
+# personal details
 
-werwe
-rwe
+محمدرضا فرح بخش 
+متولد 8 بهمن 1383 شهر تهران
+ساکن کرج
 
-## Tehran
-lsdfksd
+## educational background
 
-### Azadi
-### Enghelab
-
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
+دیپلم ریاضی فیزیک دبیرستان شهیدسلطانی 4 استان البرز
+دانشجوی مهندسی کامپیوتر دانشگاه علم و صنعت تهران
 
 
-## Esfahan
-ldkfjs
+### علاقه مندی ها
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
-
-
-<iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- موسیقی
+- انیمیشن و طراحی دیجیتال
 
 
-|  Number | Name |
-|---------|------|
-|1        | Ali  |
+
+
+
+
+
