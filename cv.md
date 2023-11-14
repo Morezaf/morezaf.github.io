@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /CV/
+permalink: /cv/
 title: everything about me
 tags: [personalinformation]
 modified: 4-14-2019
