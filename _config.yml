@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -112,8 +112,8 @@ author:
   bio              : I'm NOT the best student : |
   location         : "tehran , Iran University of Science and Technology"
   email            : farahbakhsh20mohamadreza30@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin:
   google_scholar: Q25s5KkAAAAJ
   github: morezaf
   instagram: _m.farahbakhsh
