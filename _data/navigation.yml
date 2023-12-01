@@ -2,8 +2,6 @@
 main:
   - title: "PI"
     url: /PI/
-  - title: "Courses"
-    url: /courses/
   - title: "Friends"
     url: /friends/
   - title: "Links"
