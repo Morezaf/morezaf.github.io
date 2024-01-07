@@ -27,6 +27,6 @@ As I said, to start, you can use YouTube channels like the one I put below.
 
 This channel has been the best teacher I have ever had XD
 
-[my favorite website](https://www.youtube.com/@polygonrunway)
+[You can use this link to start an amazing experience](https://www.youtube.com/@polygonrunway)
 
 Finally, you can see some of the other projects I've built on this platform in the gallery section of this website.
