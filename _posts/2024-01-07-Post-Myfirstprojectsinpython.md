@@ -27,16 +27,12 @@ In the code I put below, you can see how the reversible function works in the tr
 
 I did the following to make the ground, flowers and leaves:
 
-ground:
-
     turtle.fillcolor(s)
     turtle.begin_fill()
     for _ in range(4):
         turtle.right(90)
         turtle.forward(a)
     turtle.end_fill()
-
-leaves:
 
     turtle.fillcolor(c)
     turtle.begin_fill()
@@ -49,8 +45,6 @@ leaves:
     turtle.right(b)
     turtle.forward(x)
     turtle.end_fill()
-
-flowers:
 
     turtle.fillcolor("pink")
     turtle.begin_fill()
@@ -81,4 +75,9 @@ and finally, using recursive functions in the tree:
 
 and our final output was like this:
 
-![alt text](../assets/images/tree.jpg "my first project in python. hope you like it :)")
+![alt text](../assets/images/tree.jpg "my first project in python. hope you like it : )")
+
+Next, according to what we learned and the abilities we found, we improved our designs and started to build a collection of trees in the form of a small forest.
+But this time, using our creativity, we created trees that are more asymmetric than before and more natural:
+
+![alt text](../assets/images/jungle.jpg "my second project in python.")
