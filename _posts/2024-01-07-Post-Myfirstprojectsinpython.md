@@ -78,3 +78,7 @@ and finally, using recursive functions in the tree:
         leaf(x,b,t,c)
     if 10< d <13:
         blossom(m,l)
+
+and our final output was like this:
+
+![alt text](../assets/images/tree.jpg "my first project in python. hope you like it :)")
