@@ -19,11 +19,11 @@ gallery:
     image_path: /assets/images/blender-4.jpg
     alt: "placeholder image 3"
     title: "my beautiful garden"  
-  - url: /assets/images/blender-5.png
-    image_path: /assets/images/blender-5.png
+  - url: /assets/images/blender-5.jpg
+    image_path: /assets/images/blender-5.jpg
     alt: "placeholder image 4"
     title: "coolest home ever"
-  - url: /assets/images/Ai.png
+  - url: /assets/images/Ai.jpg
     image_path: /assets/images/Ai.jpg
     alt: "placeholder image 5"
     title: "An interesting paradox made by Ai"    
