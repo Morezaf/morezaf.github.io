@@ -11,7 +11,7 @@ In this type, we have a series of repeated shapes from small to large that grow 
 
 In the following, we will see the code and image of two examples of these fractals.
 
-* [for more information](https://towardsdatascience.com/creating-fractals-in-python-a502e5fc2094)
+[for more information](https://towardsdatascience.com/creating-fractals-in-python-a502e5fc2094)
 
 Triangle fractal:
 
