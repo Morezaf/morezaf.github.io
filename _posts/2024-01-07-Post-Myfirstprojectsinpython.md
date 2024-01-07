@@ -57,8 +57,8 @@ I did the following to make the ground, flowers and leaves:
             turtle.right(360/m)
         turtle.end_fill()
 
-and finally, using recursive functions in the tree:
-    
+And finally, using recursive functions in the tree and final execution:
+
     def tree(d,r,k,m,l,x,b,t,c):
         if d < 10 or r < 10:
             return
@@ -93,7 +93,7 @@ and finally, using recursive functions in the tree:
     ground(2000,"darkgreen")
     turtle.mainloop()
 
-and our final output was like this:
+And our final output was like this:
 
 ![alt text](../assets/images/tree.jpg "my first project in python. hope you like it : )")
 
