@@ -38,7 +38,7 @@ Triangle fractal:
     triangle(400)
     turtle.mainloop()
 
-![alt text](../assets/images/tree.jpg "Triangle fractal")
+![alt text](../assets/images/Screenshot%20(17).png "Triangle fractal")
 
 Stellar fractal:
 
@@ -62,4 +62,4 @@ Stellar fractal:
     star(5,300)
     turtle.mainloop()
 
-![alt text](../assets/images/tree.jpg "Stellar fractal")
+![alt text](../assets/images/Screenshot%20(15).png "Stellar fractal")
