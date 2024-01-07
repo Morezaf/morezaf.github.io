@@ -7,9 +7,9 @@ title: Python Projects
 
 Python is one of the most popular programming languages ​​today.
 
-Since our programming learning was also accompanied by Python learning, we used various tools, including the Tortoise library, in presenting the projects.
+Since our programming learning was also accompanied by Python learning, we used various tools, including the Turtle library, in presenting the projects.
 
-One of the ideas in the Tortoise library to make beautiful designs is to use reversible functions.
+One of the ideas in the Turtle library to make beautiful designs is to use reversible functions.
 These types of functions can be used to create famous fractals such as the triangular fractal.
 
 But more interestingly, we used recursive functions to create designs derived from nature.
@@ -31,19 +31,15 @@ import turtle
 def ground(a,s):
 
     turtle.fillcolor(s)
-
     turtle.begin_fill()
-    
     for _ in range(4):
-  
         turtle.right(90)
-  
         turtle.forward(a)
-  
     turtle.end_fill()
 
 
 def leaf(x,b,t,c):
+
     turtle.fillcolor(c)
     turtle.begin_fill()
     turtle.left(t)
@@ -58,6 +54,7 @@ def leaf(x,b,t,c):
 
 
 def blossom(m,l):
+
     turtle.fillcolor("pink")
     turtle.begin_fill()
     for _ in range(m):
@@ -67,6 +64,7 @@ def blossom(m,l):
 
 
 def tree(d,r,k,m,l,x,b,t,c):
+
     if d < 10 or r < 10:
         return
     turtle.pencolor("brown4")
@@ -84,6 +82,7 @@ def tree(d,r,k,m,l,x,b,t,c):
         leaf(x,b,t,c)
     if 10< d <13:
         blossom(m,l)
+
 
 
 turtle.hideturtle()
