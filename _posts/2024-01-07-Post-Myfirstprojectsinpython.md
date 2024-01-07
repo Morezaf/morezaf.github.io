@@ -25,8 +25,9 @@ To design the tree, in addition to the trunk and branches, which were implemente
 
 In the code I put below, you can see how the reversible function works in the tree function, as well as other things:
 
-import turtle
-def ground(a,s):
+I did the following to make the ground, flowers and leaves:
+
+ground:
 
     turtle.fillcolor(s)
     turtle.begin_fill()
@@ -35,8 +36,7 @@ def ground(a,s):
         turtle.forward(a)
     turtle.end_fill()
 
-
-def leaf(x,b,t,c):
+leaves:
 
     turtle.fillcolor(c)
     turtle.begin_fill()
@@ -50,8 +50,7 @@ def leaf(x,b,t,c):
     turtle.forward(x)
     turtle.end_fill()
 
-
-def blossom(m,l):
+flowers:
 
     turtle.fillcolor("pink")
     turtle.begin_fill()
@@ -60,8 +59,7 @@ def blossom(m,l):
         turtle.right(360/m)
     turtle.end_fill()
 
-
-def tree(d,r,k,m,l,x,b,t,c):
+and finally, using recursive functions in the tree:
 
     if d < 10 or r < 10:
         return
@@ -80,33 +78,3 @@ def tree(d,r,k,m,l,x,b,t,c):
         leaf(x,b,t,c)
     if 10< d <13:
         blossom(m,l)
-
-
-
-turtle.hideturtle()
-
-turtle.tracer(0)
-
-turtle.Screen().bgcolor("darkslategray1")
-
-turtle.penup()
-
-turtle.setpos(0,-250)
-
-turtle.left(90)
-
-turtle.pendown()
-
-tree(150,30,20,20,2.2,22,30,30,"dark green")
-
-turtle.penup()
-
-turtle.setpos(1000,-250)
-
-turtle.right(90)
-
-turtle.pendown()
-
-ground(2000,"darkgreen")
-
-turtle.mainloop()
