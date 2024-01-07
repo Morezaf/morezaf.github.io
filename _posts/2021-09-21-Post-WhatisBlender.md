@@ -17,15 +17,16 @@ With Blender, you can start with something as simple as a toy car made just by r
 
 This was my first experience working with Blender, which happened during one of the online classes:
 
+![alt text](../assets/images/car.png "first time using blender")
 
-[my favorite website](http://www.google.com)
+And after a few months I came to something like this:
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+![alt text](../assets/images/blender-1.jpg "one of my last projocts in blender")
 
+As I said, to start, you can use YouTube channels like the one I put below.
 
+This channel has been the best teacher I have ever had XD
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+[my favorite website](https://www.youtube.com/@polygonrunway)
 
----
-**Test**: This is atest
+Finally, you can see some of the other projects I've built on this platform in the gallery section of this website.
