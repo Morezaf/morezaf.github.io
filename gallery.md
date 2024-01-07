@@ -7,10 +7,10 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/blender-1.jpg
-    image_path: /assets/images/blender-1.jpg
+  - url: /assets/images/home.jpg
+    image_path: /assets/images/home.jpg
     alt: "placeholder image 1"
-    title: "the best barber shop ever"
+    title: "ghost House"
   - url: /assets/images/blender-2.jpg
     image_path: /assets/images/blender-2.jpg
     alt: "placeholder image 2"
@@ -19,14 +19,14 @@ gallery:
     image_path: /assets/images/blender-4.jpg
     alt: "placeholder image 3"
     title: "my beautiful garden"  
-  - url: /assets/images/tree.jpg
-    image_path: /assets/images/tree.jpg
+  - url: /assets/images/blender-5.png
+    image_path: /assets/images/blender-5.png
     alt: "placeholder image 4"
-    title: "my first project in python"
-  - url: /assets/images/jungle.jpg
-    image_path: /assets/images/jungle.jpg
+    title: "coolest home ever"
+  - url: /assets/images/Ai.png
+    image_path: /assets/images/Ai.jpg
     alt: "placeholder image 5"
-    title: "my second project in python"    
+    title: "An interesting paradox made by Ai"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
