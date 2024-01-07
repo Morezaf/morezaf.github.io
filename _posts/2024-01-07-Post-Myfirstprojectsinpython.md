@@ -20,15 +20,13 @@ Our projects were as follows::
 - Stellar fractal
 - Tree
 - Jungle
----
+
 
 To design the tree, in addition to the trunk and branches, which were implemented with recursive functions, we needed other items such as leaves, flowers and blossoms, ground, etc., and we reached acceptable designs by using different geometric shapes.
 
 In the code I put below, you can see how the reversible function works in the tree function, as well as other things:
 
-<p>
 import turtle
-
 
 def ground(a,s):
     turtle.fillcolor(s)
@@ -96,4 +94,3 @@ turtle.right(90)
 turtle.pendown()
 ground(2000,"darkgreen")
 turtle.mainloop()
-</p>
