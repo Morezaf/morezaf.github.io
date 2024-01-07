@@ -5,8 +5,9 @@ title: Python Projects
 
 ## A summary of my first projects in python
 
-پایتون یکی از محبوب ترین زبان های برنامه نویسی در حال حاضر به حساب می آید  
-از اونجایی که یادگیری برنامه نویسی ما هم با آموزش پایتون همراه شد، در ارایه پروژه ها از ابزار های متفاوتی از جمله کتابخانه turtle استفاده کردیم.
+Python is one of the most popular programming languages ​​today.
+Since our programming learning was also accompanied by Python learning, we used various tools, including the Tortoise library, in presenting the projects.
+
 People in the picture are:
 - Arul
 - Fai
