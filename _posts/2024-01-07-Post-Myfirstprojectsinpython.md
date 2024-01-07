@@ -15,7 +15,7 @@ These types of functions can be used to create famous fractals such as the trian
 But more interestingly, we used recursive functions to create designs derived from nature.
 For example, these functions can be used to execute the sequential designs of the branches of a tree. In the same way, we decided to create first a tree and then a forest in addition to fractals.
 
-Our projects were as follows::
+Our projects were as follows:
 - Triangle fractal
 - Stellar fractal
 - Tree
@@ -29,11 +29,17 @@ In the code I put below, you can see how the reversible function works in the tr
 import turtle
 
 def ground(a,s):
+
     turtle.fillcolor(s)
+
     turtle.begin_fill()
+    
     for _ in range(4):
+  
         turtle.right(90)
+  
         turtle.forward(a)
+  
     turtle.end_fill()
 
 
