@@ -12,7 +12,7 @@ comments: false
 ## personal details
 
 - محمدرضا فرح بخش 
-- متولد 8 بهمن 1383 شهر تهران
+- متولد تهران
 - ساکن کرج
 
 ## educational background
